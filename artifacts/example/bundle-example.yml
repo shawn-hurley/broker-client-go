@@ -2,7 +2,7 @@ apiVersion: "automationbroker.io/v1"
 kind: Bundle
 metadata:
   name: newuidhere
-  namespace: ansible-service-broker
+  namespace: default
 spec:
   version: "1.0"
   runtime: 1
