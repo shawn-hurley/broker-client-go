@@ -15,5 +15,5 @@ required = ["k8s.io/code-generator/cmd/client-gen"]
 
 [[constraint]]
   name = "k8s.io/client-go"
-  branch = "release-6.0"
+  version = "kubernetes-1.9.3"
 
